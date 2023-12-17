@@ -1,5 +1,6 @@
 ![Deep Reinforcement Learning]()
-![image](https://github.com/Sajidcodes/Deep-Reinforcement-Learning/assets/101083684/920dbc55-e0d5-421e-9ae3-d5e5e75bba52)
+![image](https://github.com/Sajidcodes/Deep-Reinforcement-Learning/assets/101083684/7cba6c8b-b5c6-46d9-943c-b48bb8be8687)
+
 
 
 # Overview
